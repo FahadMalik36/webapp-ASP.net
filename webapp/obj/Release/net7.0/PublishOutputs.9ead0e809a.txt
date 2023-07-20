@@ -1,0 +1,7 @@
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/webapp
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/webapp.dll
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/webapp.deps.json
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/webapp.runtimeconfig.json
+/Users/zunera/Desktop/webapp/webapp/obj/Release/net7.0/PubTmp/Out/webapp.pdb
